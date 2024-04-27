@@ -1,0 +1,6 @@
+.venv
+__pycache__/
+
+zhixuebot.db
+config.toml
+configs.py
